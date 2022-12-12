@@ -1,0 +1,14 @@
+C:\Users\hashe\Downloads\Compressed\ATM_Assignment\ATM_Assignment\bin\Debug\netcoreapp3.1\ATM_Assignment.exe
+C:\Users\hashe\Downloads\Compressed\ATM_Assignment\ATM_Assignment\bin\Debug\netcoreapp3.1\ATM_Assignment.deps.json
+C:\Users\hashe\Downloads\Compressed\ATM_Assignment\ATM_Assignment\bin\Debug\netcoreapp3.1\ATM_Assignment.runtimeconfig.json
+C:\Users\hashe\Downloads\Compressed\ATM_Assignment\ATM_Assignment\bin\Debug\netcoreapp3.1\ATM_Assignment.runtimeconfig.dev.json
+C:\Users\hashe\Downloads\Compressed\ATM_Assignment\ATM_Assignment\bin\Debug\netcoreapp3.1\ATM_Assignment.dll
+C:\Users\hashe\Downloads\Compressed\ATM_Assignment\ATM_Assignment\bin\Debug\netcoreapp3.1\ATM_Assignment.pdb
+C:\Users\hashe\Downloads\Compressed\ATM_Assignment\ATM_Assignment\obj\Debug\netcoreapp3.1\ATM_Assignment.csproj.AssemblyReference.cache
+C:\Users\hashe\Downloads\Compressed\ATM_Assignment\ATM_Assignment\obj\Debug\netcoreapp3.1\ATM_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hashe\Downloads\Compressed\ATM_Assignment\ATM_Assignment\obj\Debug\netcoreapp3.1\ATM_Assignment.AssemblyInfoInputs.cache
+C:\Users\hashe\Downloads\Compressed\ATM_Assignment\ATM_Assignment\obj\Debug\netcoreapp3.1\ATM_Assignment.AssemblyInfo.cs
+C:\Users\hashe\Downloads\Compressed\ATM_Assignment\ATM_Assignment\obj\Debug\netcoreapp3.1\ATM_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\hashe\Downloads\Compressed\ATM_Assignment\ATM_Assignment\obj\Debug\netcoreapp3.1\ATM_Assignment.dll
+C:\Users\hashe\Downloads\Compressed\ATM_Assignment\ATM_Assignment\obj\Debug\netcoreapp3.1\ATM_Assignment.pdb
+C:\Users\hashe\Downloads\Compressed\ATM_Assignment\ATM_Assignment\obj\Debug\netcoreapp3.1\ATM_Assignment.genruntimeconfig.cache
